@@ -1,0 +1,51 @@
+
+<html>	
+<head>	
+<title>insomnia</title>
+
+<link rel="stylesheet" href="style.css">	
+<meta name="google-site-verification" content="NMVtBdJ35rPSUmOjpXUfwH6vzeDRoHtwqE0jpa_aHD8" />	
+<link rel="icon" type="image/ico" href="images/favicon.ico">
+<script src="title.js"></script>
+
+</head>
+
+<body>
+
+	<!-- title -->		
+	
+	<div id="center" class="w3-container w3-center w3-animate-opacity">	
+	
+	<center><a href="http://steamcommunity.com/groups/insomnia420" target="_blank" style="font-size:64px">I N S O M N I A</a><center>
+                    
+                  <center><a href="http://steamcommunity.com/groups/insomnia420" target="_blank" style="font-size:64px">4:20</a><center>
+	
+	<!-- links + time -->	
+	
+	
+	
+	
+<center><a href="http://steamcommunity.com/id/afkforlongtime/" target="_blank">STEAM</a> -
+<a href="https://www.facebook.com/6yo6shi6wi1312" target="_blank">FB</a> -
+<a href="https://www.youtube.com/watch?v=o_Jd02iJX9s">FRAGSHOW</a> 
+</marquee>	
+	<center><div id="clockDisplay" class="clockStyle"></div></center>	
+	
+	<script src="https://kacper.win/scripts/time.js"></script>	
+	
+	</center>
+	
+	</div>
+
+	<!-- audio -->
+
+<div class="img">                    
+<img src="https://media.giphy.com/media/3ohhwqvkBLCtoA7kqs/giphy.gif" alt="">
+</div>
+<div class="audio">
+<audio autoplay="" loop="" id="background_music" src="8bfa05aaf86268.mp3"></audio>
+</div>
+	
+	
+	</body>
+	</html>
